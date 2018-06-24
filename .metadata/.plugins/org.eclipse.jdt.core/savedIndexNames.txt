@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+E:\Backend\DurgaSoft\DurgaRatan\Adv\JDBC\.metadata\.plugins\org.eclipse.jdt.core
+664140773.index
+1742608218.index
+668835095.index
+3201617069.index
+61436394.index
